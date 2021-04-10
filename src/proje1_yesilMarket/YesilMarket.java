@@ -18,6 +18,7 @@ package proje1_yesilMarket;
 			
 		public static void main(String[] args) {
 			System.out.println("v2 denizbranch");
+			System.out.println("v3 denizbranch");
 			/* Yeşil Market alış-veriş programı.
 			 *
 			 * 1. Adım: Ürünler ve fiyatları içeren listeleri oluşturunuz.
